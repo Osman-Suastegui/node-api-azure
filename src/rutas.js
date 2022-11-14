@@ -4,7 +4,7 @@ let router = express.Router()
 
 
 router.get("/",(req,res) => {
-    res.send("hola como estas ")
+    res.send("hola como estas waa123")
 })
 
 export default router
